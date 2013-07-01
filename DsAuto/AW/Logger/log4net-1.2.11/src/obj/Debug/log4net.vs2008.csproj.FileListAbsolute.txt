@@ -1,0 +1,6 @@
+E:\Vs_Project\DsAuto\DsAuto\AW\Logger\log4net-1.2.11\build\bin\net\2.0\debug\log4net.dll
+E:\Vs_Project\DsAuto\DsAuto\AW\Logger\log4net-1.2.11\build\bin\net\2.0\debug\log4net.pdb
+E:\Vs_Project\DsAuto\DsAuto\AW\Logger\log4net-1.2.11\build\bin\net\2.0\debug\log4net.xml
+E:\Vs_Project\DsAuto\DsAuto\AW\Logger\log4net-1.2.11\src\obj\Debug\ResolveAssemblyReference.cache
+E:\Vs_Project\DsAuto\DsAuto\AW\Logger\log4net-1.2.11\src\obj\Debug\log4net.dll
+E:\Vs_Project\DsAuto\DsAuto\AW\Logger\log4net-1.2.11\src\obj\Debug\log4net.pdb

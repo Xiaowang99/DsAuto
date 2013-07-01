@@ -1,0 +1,2 @@
+log4net是Apache的开源日志模块.
+log4net.dll是用源码编译之后的动态dll

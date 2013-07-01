@@ -1,0 +1,1 @@
+E:\Vs_Project\DsAuto\DsAuto\AW\Logger\log4net-1.2.11\tests\src\obj\Debug\ResolveAssemblyReference.cache
